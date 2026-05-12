@@ -10,7 +10,7 @@
 
 ### About Me 🧬🔐🤖
 
-I'm a molecular biologist turned hacker-researcher, working at the intersection of **cybersecurity**, **AI**, and **bioinformatics**.
+I'm a molecular biologist turned hacker-researcher, working at the intersection of **cybersecurity**, **AI** and **bioinformatics**.
 
 - 🎓 MSc Molecular Biology @ [Università degli Studi di Palermo](https://www.unipa.it) # registered member of the Italian National Order of Biologists
 - 🔬 Interested in single-cell RNA-seq and spatial transcriptomics # exploring GPU-accelerated bioinformatics
