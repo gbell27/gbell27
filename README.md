@@ -15,7 +15,7 @@ I'm a molecular biologist turned hacker-researcher, working at the intersection 
 - 🎓 MSc Molecular Biology @ [Università degli Studi di Palermo](https://www.unipa.it) # registered member of the Italian National Order of Biologists
 - 🔬 Interested in single-cell RNA-seq and spatial transcriptomics # exploring GPU-accelerated bioinformatics
 - 🔐 Active on HackTheBox & TryHackMe # currently working toward CPTS, OSCP, COAE, CKA/CKS
-- 🤫 Working on something at the crossroads of AI, bioinformatics, and cybersecurity # stay tuned
+- 🤫 Working on something at the crossroads of AI, bioinformatics and cybersecurity # stay tuned
 - 🏡 Palermo, 🇮🇹
 - 📫 me@gabrielebellavia.it
 
